@@ -1,0 +1,5 @@
+/home/huongtx/Documents/Projects/Openwebtorrent/openwebtorrent-tracker/build/CMakeFiles/edit_cache.dir
+/home/huongtx/Documents/Projects/Openwebtorrent/openwebtorrent-tracker/build/CMakeFiles/openwebtorrent-tracker.dir
+/home/huongtx/Documents/Projects/Openwebtorrent/openwebtorrent-tracker/build/CMakeFiles/rebuild_cache.dir
+/home/huongtx/Documents/Projects/Openwebtorrent/openwebtorrent-tracker/build/CMakeFiles/uWebSockets.dir
+/home/huongtx/Documents/Projects/Openwebtorrent/openwebtorrent-tracker/build/CMakeFiles/uSockets.dir
