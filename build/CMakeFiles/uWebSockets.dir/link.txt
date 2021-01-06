@@ -1,0 +1,2 @@
+/usr/bin/ar qc libuWebSockets.a  
+/usr/bin/ranlib libuWebSockets.a

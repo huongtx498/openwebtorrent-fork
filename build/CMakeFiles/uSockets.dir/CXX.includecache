@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/huongtx/Documents/Projects/Openwebtorrent/openwebtorrent-tracker/deps/uWebSockets/uSockets/src/crypto/sni_tree.cpp
+map
+-
+memory
+-
+string_view
+-
+cstring
+-
+cstdlib
+-
+algorithm
+-
+
